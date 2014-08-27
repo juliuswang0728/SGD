@@ -1,3 +1,6 @@
+void new_func2() {
+    
+}
 void new_func() {
     
 }
