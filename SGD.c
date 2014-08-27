@@ -2,7 +2,7 @@ void new_func2() {
     
 }
 void new_func() {
-    
+    //hey i will put my new codes here.
 }
 //average SGD implemented by Julius 2014.08.27
 void LLC_SGD(double *w, double *x, double *centers, int *knn_idx, int knn, int d) {
